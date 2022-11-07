@@ -1,6 +1,6 @@
 import geopandas as gpd
 
-from helper_funs import (
+from utils import (
     unbounded_grid,
     bounded_grid,
     geometry_union,
